@@ -25,8 +25,8 @@ https://github.com/ad1da7/ono-tebe-nado-ad
 
 ## Автор
 
-- Github - [MikEBeloborodov](https://github.com/ad1da7)
-- Frontend Mentor - [@MikeBeloborodov](https://www.frontendmentor.io/profile/ad1da7)
+- Github - [ad1da7](https://github.com/ad1da7)
+- Frontend Mentor - [ad1da7](https://www.frontendmentor.io/profile/ad1da7)
 
 ## Благодарность
 
